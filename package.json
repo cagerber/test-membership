@@ -1,0 +1,14 @@
+{
+  "name": "test-membership",
+  "author": "Anton Gerber",
+  "description": "Test project",
+  "version": "1.0.0",s
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*"
+  }
+}
